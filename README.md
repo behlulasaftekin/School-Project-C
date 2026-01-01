@@ -43,6 +43,7 @@ Eğer terminal üzerinden çalıştırmak isterseniz proje dizinine gidip şu ko
 ```bash
 gcc main.c -o gsm_otomasyon
 ./gsm_otomasyon
+```
 ### 🛠️Kullanılan Teknolojiler
 Dil: C Programming Language
 
