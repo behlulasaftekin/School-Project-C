@@ -43,7 +43,7 @@ Eğer terminal üzerinden çalıştırmak isterseniz proje dizinine gidip şu ko
 ```bash
 gcc main.c -o gsm_otomasyon
 ./gsm_otomasyon
-🛠️Kullanılan Teknolojiler
+### 🛠️Kullanılan Teknolojiler
 Dil: C Programming Language
 
 IDE: Visual Studio 2022
@@ -52,7 +52,7 @@ Veri Yapıları: Structs, Pointers
 
 Yöntem: Modüler Programlama, Dosya İşlemleri (File I/O)
 
-👤 İletişim
+### 👤 İletişim
 Behlül Asaf Tekin
 
 🔗 GitHub Profilim: https://github.com/behlulasaftekin
